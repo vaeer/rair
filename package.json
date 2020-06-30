@@ -1,6 +1,7 @@
 {
   "name": "reair",
-  "version": "1.0.0",
+  "version": "0.1.0",
+  "private": false,
   "description": "轻量react组件库",
   "main": "index.js",
   "scripts": {
