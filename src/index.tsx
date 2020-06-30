@@ -1,9 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
-import './index.css';
+import InputVerfiy from './components/InputVerify';
 
 ReactDOM.render(
-  <App />,
+  <InputVerfiy sendCode={() => {console.log('...')}}/>,
   document.getElementById('root')
 );
